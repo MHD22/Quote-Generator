@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Quote-Generator/static/css/main.08a71489.chunk.css",
-    "main.js": "/Quote-Generator/static/js/main.c70b020d.chunk.js",
-    "main.js.map": "/Quote-Generator/static/js/main.c70b020d.chunk.js.map",
-    "runtime-main.js": "/Quote-Generator/static/js/runtime-main.8f36aec5.js",
-    "runtime-main.js.map": "/Quote-Generator/static/js/runtime-main.8f36aec5.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/Quote-Generator/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.cfd806a5.chunk.js": "/Quote-Generator/static/js/2.cfd806a5.chunk.js",
-    "static/js/2.cfd806a5.chunk.js.map": "/Quote-Generator/static/js/2.cfd806a5.chunk.js.map",
-    "index.html": "/Quote-Generator/index.html",
-    "precache-manifest.3aa709b06870ddf6f527b06e2794d4ac.js": "/Quote-Generator/precache-manifest.3aa709b06870ddf6f527b06e2794d4ac.js",
-    "service-worker.js": "/Quote-Generator/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/Quote-Generator/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.08a71489.chunk.css.map": "/Quote-Generator/static/css/main.08a71489.chunk.css.map",
-    "static/js/2.cfd806a5.chunk.js.LICENSE.txt": "/Quote-Generator/static/js/2.cfd806a5.chunk.js.LICENSE.txt"
+    "main.css": "/Quote-Generator-React-APP/static/css/main.08a71489.chunk.css",
+    "main.js": "/Quote-Generator-React-APP/static/js/main.548cbf32.chunk.js",
+    "main.js.map": "/Quote-Generator-React-APP/static/js/main.548cbf32.chunk.js.map",
+    "runtime-main.js": "/Quote-Generator-React-APP/static/js/runtime-main.c6547196.js",
+    "runtime-main.js.map": "/Quote-Generator-React-APP/static/js/runtime-main.c6547196.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Quote-Generator-React-APP/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cfd806a5.chunk.js": "/Quote-Generator-React-APP/static/js/2.cfd806a5.chunk.js",
+    "static/js/2.cfd806a5.chunk.js.map": "/Quote-Generator-React-APP/static/js/2.cfd806a5.chunk.js.map",
+    "index.html": "/Quote-Generator-React-APP/index.html",
+    "precache-manifest.2902a8528d57bfff5b23f5cb2be568d4.js": "/Quote-Generator-React-APP/precache-manifest.2902a8528d57bfff5b23f5cb2be568d4.js",
+    "service-worker.js": "/Quote-Generator-React-APP/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Quote-Generator-React-APP/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.08a71489.chunk.css.map": "/Quote-Generator-React-APP/static/css/main.08a71489.chunk.css.map",
+    "static/js/2.cfd806a5.chunk.js.LICENSE.txt": "/Quote-Generator-React-APP/static/js/2.cfd806a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f36aec5.js",
+    "static/js/runtime-main.c6547196.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.cfd806a5.chunk.js",
     "static/css/main.08a71489.chunk.css",
-    "static/js/main.c70b020d.chunk.js"
+    "static/js/main.548cbf32.chunk.js"
   ]
 }
