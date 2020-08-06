@@ -1,0 +1,14 @@
+#q{
+    background-color: rgba(192, 184, 184, 0.44);
+    box-shadow: 4px 4px 8px 5px rgba(3, 3, 3, 0.4); 
+}
+button{
+    background-color: rgba(192, 184, 184, 0.6);
+}
+button:hover{
+    filter: brightness(90%);
+}
+.tw:hover {
+ 
+    color:#38a1f3;
+}
