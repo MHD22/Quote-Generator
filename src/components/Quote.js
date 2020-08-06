@@ -18,7 +18,7 @@ function Quote({onNewQuote,quote , author,onTweet}){
         lng=false;
     }
     return (
-        <div id="q" className="mw6 w-60-m mh3 mh0-m b--light-gray o-90 ba shadow-5 bg-black-05 br4 pt2" >
+        <div id="q" className="mw7  mh3 mh0-m b--light-gray o-90 ba shadow-5 bg-black-05 br4 pt4" >
             {/* quote text  */}
             <div 
                 className={lng?long:short}> {quote}
